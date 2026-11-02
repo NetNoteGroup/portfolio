@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio for **Daniel Kariuki Githua**, IT Solutions Architect & Network Engineer based in Kenya.
 
-🔗 **Live site:** https://YOUR-SITE-URL-HERE
+🔗 **Live site:** https://
 
 ## About
 
